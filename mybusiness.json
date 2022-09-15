@@ -1,0 +1,19 @@
+{
+    "status": 200,
+    "data": {
+        "list": [{"id":1,"first_name":"Aguie","last_name":"Trunks","email":"atrunks0@thetimes.co.uk","gender":"Genderfluid","ip_address":"75.145.183.164"},
+        {"id":2,"first_name":"Barron","last_name":"Duckfield","email":"bduckfield1@technorati.com","gender":"Male","ip_address":"69.186.49.138"},
+        {"id":3,"first_name":"Gertruda","last_name":"Lafrentz","email":"glafrentz2@constantcontact.com","gender":"Female","ip_address":"166.214.110.29"},
+        {"id":4,"first_name":"Tracy","last_name":"Matzkaitis","email":"tmatzkaitis3@redcross.org","gender":"Male","ip_address":"110.241.155.97"},
+        {"id":5,"first_name":"Idalina","last_name":"Lartice","email":"ilartice4@guardian.co.uk","gender":"Female","ip_address":"250.47.34.210"},
+        {"id":6,"first_name":"Cassondra","last_name":"Darrow","email":"cdarrow5@biblegateway.com","gender":"Female","ip_address":"30.189.201.45"},
+        {"id":7,"first_name":"Roda","last_name":"Kunzler","email":"rkunzler6@weebly.com","gender":"Polygender","ip_address":"12.250.85.204"},
+        {"id":8,"first_name":"Con","last_name":"Fannon","email":"cfannon7@cbc.ca","gender":"Polygender","ip_address":"81.94.213.65"},
+        {"id":9,"first_name":"Jeffrey","last_name":"Frizell","email":"jfrizell8@wp.com","gender":"Male","ip_address":"58.103.53.55"},
+        {"id":10,"first_name":"Anabal","last_name":"Feragh","email":"aferagh9@lulu.com","gender":"Female","ip_address":"246.58.229.194"}],
+        "page": 1,
+        "offset": 1,
+        "limit_pages": 1,
+        "limit": 10
+    }
+}
